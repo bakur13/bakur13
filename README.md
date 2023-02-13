@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**bakur13/bakur13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• İstanbul Medeniyet University 2022 graduate
+• Electrical Electronics Engineer
 
-Here are some ideas to get you started:
+• WEB APPLICATION Project based experiences with RESTful, MySQL, Database, API, JSON with GOLANG
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Project based experiences with PHP, HTML, CSS, Bootstrap Theme Development
+
+• Microsoft Visual Studio, PHP ( Bracket IDE ) experience
+•Analytical thinking, strong interpersonal relationships,
+empathizing.
+
+•Beginner ;Hazelcast, swagger, voltdb, DevObs, git, Docker,OCS,Oracle,Kafka
+
+
+- 🌱 I’m currently learning Golang Restful APİ
+- 💬 Ask me about :hamzauslu056@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/hamza-uslu-4b8123194/
+- 😄 Languages: Englısh B1,Turkısh and Kurdısh
+
