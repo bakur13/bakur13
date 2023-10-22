@@ -2,6 +2,7 @@
 
 • İstanbul Medeniyet University 2022 graduate
 • Electrical Electronics Engineer
+• ı am working as a QA Specialist
 
 • WEB APPLICATION Project based experiences with RESTful, MySQL, Database, API, JSON with GOLANG
 
